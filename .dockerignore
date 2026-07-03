@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.gitignore
+*.md
+.env*
+.eslintrc*
+.prettierrc*
+tsconfig.tsbuildinfo
+next-env.d.ts
+.pnpm-lock.yaml
+pnpm-lock.yaml
+pnpm-workspace.yaml
